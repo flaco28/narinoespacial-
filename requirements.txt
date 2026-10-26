@@ -1,3 +1,13 @@
 streamlit
+geopandas
+libpysal
+esda
+spreg
+statsmodels
+shapely
+plotly
+seaborn
+scikit-learn
+matplotlib
 transformers
 torch
